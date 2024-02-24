@@ -1,0 +1,18 @@
+img{
+    height: 77vh;
+    width: 92vw;
+}
+div{
+    padding: 15px;
+    background-color: antiquewhite;
+}
+caption{
+    font-size: xx-large;
+    font-weight: 700;
+}
+button{
+    justify-content:center;
+    margin-left: 28vw;
+    background-color: rgb(162, 184, 237);
+    border-radius: 0.5em;
+}
